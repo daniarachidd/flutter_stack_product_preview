@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//daniasblog.com
 class ProductPreview extends StatelessWidget {
   const ProductPreview({Key? key}) : super(key: key);
 
